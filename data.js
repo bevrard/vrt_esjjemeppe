@@ -98,6 +98,12 @@ var APP_DATA = {
           "pitch": -0.035895732553013815,
           "rotation": 0,
           "target": "5-entre"
+        },
+        {
+          "yaw": 2.49603117506976,
+          "pitch": -0.02011348318367112,
+          "rotation": 0,
+          "target": "0-cour"
         }
       ],
       "infoHotspots": []
@@ -176,6 +182,12 @@ var APP_DATA = {
           "pitch": 0.07533433945924628,
           "rotation": 0,
           "target": "5-entre"
+        },
+        {
+          "yaw": -2.948204665253151,
+          "pitch": 0.053005211365604765,
+          "rotation": 0,
+          "target": "3-hall"
         }
       ],
       "infoHotspots": []
@@ -248,7 +260,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -2.9602112073710725,
+          "pitch": 0.08967929902357419,
+          "rotation": 0,
+          "target": "5-entre"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -355,7 +374,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 1.7592977311738291,
+          "pitch": -0.10309611492992588,
+          "rotation": 0,
+          "target": "8-couloir"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -438,7 +464,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 1.8769565124005654,
+          "pitch": 0.08081408532342671,
+          "rotation": 0,
+          "target": "18-etage"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -461,7 +494,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 2.9252998186265753,
+          "pitch": 0.040155274844787314,
+          "rotation": 0,
+          "target": "8-couloir"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -570,9 +610,9 @@ var APP_DATA = {
       ],
       "faceSize": 512,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -1.952708706126133,
+        "pitch": 0.07686937589513221,
+        "fov": 1.4612050697485615
       },
       "linkHotspots": [
         {
@@ -597,7 +637,7 @@ var APP_DATA = {
           "yaw": -1.7071121880036983,
           "pitch": 0.16702965726273433,
           "rotation": 4.71238898038469,
-          "target": "15-m3"
+          "target": "14-m2"
         }
       ],
       "infoHotspots": []
