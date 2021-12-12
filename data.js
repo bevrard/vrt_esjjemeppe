@@ -34,8 +34,8 @@ var APP_DATA = {
           "target": "1-jardin-des-maternelles"
         },
         {
-          "yaw": 1.3651696553710444,
-          "pitch": -0.06527871484338021,
+          "yaw": 1.3651697042256163,
+          "pitch": -0.06706688434864816,
           "rotation": 0,
           "target": "3-hall"
         }
@@ -343,7 +343,7 @@ var APP_DATA = {
           "yaw": 0.05635878049340448,
           "pitch": 0.031420242920436436,
           "rotation": 4.71238898038469,
-          "target": "15-m3"
+          "target": "16-m1"
         },
         {
           "yaw": 0.09788797552477213,
@@ -559,7 +559,7 @@ var APP_DATA = {
           "yaw": 2.769238721371538,
           "pitch": 0.1092018980663827,
           "rotation": 0,
-          "target": "8-couloir"
+          "target": "17-entre-maternelle"
         }
       ],
       "infoHotspots": []
@@ -589,7 +589,7 @@ var APP_DATA = {
           "yaw": -0.22415409410501397,
           "pitch": 0.05530750021758024,
           "rotation": 0,
-          "target": "17-entre-maternelle"
+          "target": "8-couloir"
         }
       ],
       "infoHotspots": []
@@ -619,13 +619,13 @@ var APP_DATA = {
           "yaw": 2.643686350202067,
           "pitch": 0.16130194958881638,
           "rotation": 4.71238898038469,
-          "target": "16-m1"
+          "target": "14-m2"
         },
         {
           "yaw": -1.106823134154732,
           "pitch": 0.02422605092610297,
           "rotation": 1.5707963267948966,
-          "target": "0-cour"
+          "target": "1-jardin-des-maternelles"
         },
         {
           "yaw": -1.5621257367153945,
@@ -637,7 +637,7 @@ var APP_DATA = {
           "yaw": -1.7071121880036983,
           "pitch": 0.16702965726273433,
           "rotation": 4.71238898038469,
-          "target": "14-m2"
+          "target": "15-m3"
         }
       ],
       "infoHotspots": []
